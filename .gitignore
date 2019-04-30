@@ -17,7 +17,7 @@ target/
 .classpath
 
 #idea
-./idea/
+.idea/
 /idea/
 *.ipr
 *.iml
